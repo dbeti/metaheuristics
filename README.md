@@ -4,17 +4,17 @@ The C++ implementation of three algorithms based on meta-heuristics: hill climbi
 
 Example of user interface:
 <br>
-[example1](heuristics1.png)
+![Example 1](heuristics1.png?raw=true "Example 1")
 <br>
 Settings:
-[example2](heuristics2.png)
+![Example 2](heuristics2.png?raw=true "Example 2")
 <br>
 Examples of image approximations:
 <br>
-[exmaple3](heuristics3.png)
+![Example 3](heuristics3.png?raw=true "Example 3")
 <br>
-[exmaple4](heuristics4.png)
+![Example 4](heuristics4.png?raw=true "Example 4")
 <br>
-[exmaple5](heuristics5.png)
+![Example 5](heuristics5.png?raw=true "Example 5")
 <br>
-[exmaple6](heuristics6.png)
+![Example 5](heuristics6.png?raw=true "Example 6")
